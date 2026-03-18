@@ -9,5 +9,10 @@
       "trait_type": "Industry",
       "value": "Energy"
     }
-  ]
+  ],
+  "extensions": {
+    "website": "https://ogpc.io",
+    "twitter": "https://x.com/ogpc_io",
+    "github": "https://github.com/George-create477/OGPC-Official"
+  }
 }
